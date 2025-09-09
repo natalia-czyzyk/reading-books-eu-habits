@@ -1,4 +1,4 @@
-# Reading Habits in Europe – Tableau Dashboard
+# Reading Habits in the EU – Tableau Dashboard
 
 This project explores book reading habits across EU countries, with a focus on intensive readers (>10 books per year).  
 It includes breakdowns by age, gender, and a dedicated focus on Poland.
