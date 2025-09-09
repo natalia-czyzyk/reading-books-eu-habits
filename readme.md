@@ -7,7 +7,7 @@ It includes breakdowns by age, gender, and a dedicated focus on Poland.
 👉 [Link to Tableau Public Dashboard](https://public.tableau.com/views/BookreadingtrendsinEU/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Preview
-![Dashboard Preview](screenshot.png)
+![Dashboard Preview](viz_screenshot.png)
 
 ## Data
 - Source: Eurostat, [EU-SILC 2022 (ILC_SCP27)](https://ec.europa.eu/eurostat/databrowser/view/ilc_scp27__custom_17994492/default/table)
